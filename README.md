@@ -1,5 +1,14 @@
 ### About Me
-Software Developer
+Hello! I'm crypticplank, a CS college student.
+* Developer of the [Cider API](https://api.cider.sh).
+* Developer of the most popular Flappybird clone for iOS and macOS.
+* Programmed for the *OS system from 2018 - 2021.
+* Program for desktops, and game plugins as of writing this.
+* I really do **not** like interpreted programming languages.
+* I use the Jetbrains suite for all of my programming needs (i.e GoLand, Intellij).
+* I do **not** use Windows, I do however use Linux.
+* Reverse engineering is one of my stong points.
+* Program mainly in GoLang, but do use Java and C in my daily life.
 
 ### GitHub Stats
 
