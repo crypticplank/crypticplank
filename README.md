@@ -16,4 +16,4 @@ Hello! I'm crypticplank, a CS college student.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crypticplank&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/crypticplank/)
 
 ### Donation
-* XMR ```86h6BAhouNv6mEiZWy33r6KYoFs5PMumdVxzmkFDHXmncUzskTLC5LcZmufmwZ73Ds9kvsDK4RyqaLEsgzYMu5i4CKqniHD```
+* XMR ```89BhiKdRpjt8Tj2eHjJ9iR19gKLcbM6NaahHbZGKZ2SY69umn7UnMV3fCoEJdXcXWoBVUW5M9tZDnDj6eWYMQFUtShY5kvZ```
